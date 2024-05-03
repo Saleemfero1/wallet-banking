@@ -1,0 +1,25 @@
+.welcomeNote{
+font-size: 30px;
+color: black;
+text-justify: auto;
+}
+.text-black{
+color: white;
+}
+
+.pic-Col-6{
+    height: 100vh;
+    background-image: url("./money.jpg");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position-x:center ;
+    background-position-y:bottom;
+
+    
+}
+.content{
+    margin-top: 200px;
+}
+.content-text{
+font-size: 25px;    
+}
